@@ -12,31 +12,31 @@
 
 <div align="center">
   <a href="https://discordapp.com/users/422937496318377994" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" height="30" alt="discord logo"  />
+    <img src="assets/icons/social/discord/default.svg" width="45" height="30" alt="discord logo"  />
   </a>
   <a href="https://www.facebook.com/sreehari.1999" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="45" height="30" alt="facebook logo"  />
+    <img src="assets/icons/social/facebook/default.svg" width="45" height="30" alt="facebook logo"  />
   </a>
   <a href="https://www.hackerrank.com/sreeharis1999?hr_r=1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="45" height="30" alt="hackerrank logo"  />
+    <img src="assets/icons/social/hackerrank/default.svg" width="45" height="30" alt="hackerrank logo"  />
   </a>
   <a href="https://www.instagram.com/______aegon______/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="30" alt="instagram logo"  />
+    <img src="assets/icons/social/instagram/default.svg" width="45" height="30" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/sreehari-s-1680" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
+    <img src="assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://t.me/no_one_99" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="45" height="30" alt="telegram logo"  />
+    <img src="assets/icons/social/telegram/default.svg" width="45" height="30" alt="telegram logo"  />
   </a>
   <a href="https://twitter.com/sreehari__s" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="30" alt="twitter logo"  />
+    <img src="assets/icons/social/twitter/default.svg" width="45" height="30" alt="twitter logo"  />
   </a>
   <a href="https://wa.me/+918089776183" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" height="30" alt="whatsapp logo"  />
+    <img src="assets/icons/social/whatsapp/default.svg" width="45" height="30" alt="whatsapp logo"  />
   </a>
   <a href="https://www.youtube.com/@sreeharis3989" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="45" height="30" alt="youtube logo"  />
+    <img src="assets/icons/social/youtube/default.svg" width="45" height="30" alt="youtube logo"  />
   </a>
 </div>
 
@@ -67,7 +67,7 @@
 <h2 align="center">💻 Tech Stack:</h2>
 
 ###
-###
+
 
 <div align="center">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C">

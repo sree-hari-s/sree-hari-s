@@ -2,7 +2,8 @@
 
 ###
 
-<p align="center">I am a Data Science Enthusiast<br> I’m currently learning Data Science, Python, Machine Learning Algorithms, Data Visualization tools, etc</p>
+<p align="center">I am a Data Science Enthusiast<br>🌱 I’m currently learning how to help the Open Source community more</p>
+<p align="center">Want to know more about me? <a href="https://sree-hari-s.github.io/My-Portfolio-master/index.html" target="_blank">Here is my portfolio.</a></p>
 
 ###
 
@@ -25,6 +26,9 @@
   </a>
   <a href="https://www.linkedin.com/in/sreehari-s-1680" target="_blank">
     <img src="assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:sreeharis1999@gmail.com" target="_blank">
+    <img src="assets/icons/social/gmail/default.svg" width="45" height="30" alt="Gmail logo"  />
   </a>
   <a href="https://t.me/no_one_99" target="_blank">
     <img src="assets/icons/social/telegram/default.svg" width="45" height="30" alt="telegram logo"  />

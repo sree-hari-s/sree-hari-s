@@ -3,7 +3,7 @@
 ###
 
 <p align="center">I am a Data Science Enthusiast<br>🌱 I’m currently learning how to help the Open Source community more</p>
-<p align="center">Want to know more about me? <a href="https://sree-hari-s.github.io/My-Portfolio-master/index.html" target="_blank">Here is my portfolio.</a></p>
+<p align="center">Want to know more about me? <a href="https://sree-hari-s.github.io/Portfolio-1/" target="_blank">Here is my portfolio.</a></p>
 
 ###
 

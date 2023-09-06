@@ -34,36 +34,18 @@
     <img src="assets/icons/social/youtube/default.svg" width="45" height="30" alt="youtube logo"  />
   </a>
 </div>
-<h2 align="center">Github Stats:</h2>
-<div align="center">
-<a href="https://github.com/sree-hari-s/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-gules-kappa.vercel.app/api?username=sree-hari-s&theme=dark" />
-</a>
-<a href="https://github.com/sree-hari-s/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-gules-kappa.vercel.app/api/top-langs?username=sree-hari-s&theme=dark&layout=donut&langs_count=8&card_width=320" />
-  <img src="https://streak-stats.demolab.com?user=sree-hari-s&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-</a>
-</div>
+
+|Stats |Streak |Languages 
+|---|---|---|
+|[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sree-hari-s&theme=gruvbox)](https://github.com/sree-hari-s/)|[![GitHub Streak](https://streak-stats.demolab.com?user=sree-hari-s&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://github.com/sree-hari-s/)|[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sree-hari-s&theme=gruvbox)](https://github.com/sree-hari-s/)|
+
+
+---
+
+[![sree-hari-s's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sree-hari-s&bg_color=282624&color=d68a1f&line=a8a8a8&point=b05907&area=true&hide_border=true)](https://github.com/sree-hari-s/Programming-Gifs)
+<div align='center'>
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sree-hari-s.sree-hari-s&"  />
 </div>
-<h2 align="center">💻 Tech Stack:</h2>
-<div align="center">
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C">
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white" alt="LaTeX">
-    <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python">
-    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7" alt="Netlify">
-    <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white" alt="Anaconda">
-    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
-    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white" alt="Django">
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma">
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" alt="Canva">
-    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy">
-    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas">
-    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn">
-</div>
+

@@ -48,4 +48,4 @@
 <div align='center'>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sree-hari-s&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sree-hari-s&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)

@@ -47,7 +47,5 @@
 [![sree-hari-s's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sree-hari-s&bg_color=282624&color=d68a1f&line=a8a8a8&point=b05907&area=true&hide_border=true)](https://github.com/sree-hari-s/Programming-Gifs)
 <div align='center'>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sree-hari-s.sree-hari-s&"  />
-</div>
-
+---
+[![](https://visitcount.itsvg.in/api?id=sree-hari-s&icon=5&color=0)](https://visitcount.itsvg.in)

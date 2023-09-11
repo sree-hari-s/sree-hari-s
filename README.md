@@ -37,15 +37,24 @@
 
 ---
 
-|Stats |Streak |Languages
-
-|---|---|---|
-|[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sree-hari-s&theme=gruvbox)](https://github.com/sree-hari-s/)|[![GitHub Streak](https://streak-stats.demolab.com?user=sree-hari-s&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)](https://github.com/sree-hari-s/)|[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sree-hari-s&theme=gruvbox)](https://github.com/sree-hari-s/)|
-
+<h2 align="center">Github Stats:</h2>
+<div align="center">
+<a href="https://github.com/sree-hari-s/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-li7ck9pt0-sree-hari-s.vercel.app/api?username=sree-hari-s&theme=dark" />
+  <img height=200 align="center" src="https://http://github-readme-stats-sree-hari-s.vercel.app/api?username=sree-hari-s&theme=dark" />
+</a>
+<a href="https://github.com/sree-hari-s/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-li7ck9pt0-sree-hari-s.vercel.app/api/top-langs?username=sree-hari-s&theme=dark&layout=donut&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://http://github-readme-stats-sree-hari-s.vercel.app/api/top-langs?username=sree-hari-s&theme=dark&layout=donut&langs_count=8&card_width=320" />
+  <img src="https://streak-stats.demolab.com?user=sree-hari-s&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+</a>
+</div>
 ---
 
 [![sree-hari-s's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sree-hari-s&bg_color=282624&color=d68a1f&line=a8a8a8&point=b05907&area=true&hide_border=true)](https://github.com/sree-hari-s/Programming-Gifs)
+
 <div align='center'>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sree-hari-s&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=sree-hari-s&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
+</div>

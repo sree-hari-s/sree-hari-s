@@ -37,10 +37,10 @@
 
 ---
 
-|Stats |Streak |Languages 
-|---|---|---|
-|[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sree-hari-s&theme=gruvbox)](https://github.com/sree-hari-s/)|[![GitHub Streak](https://streak-stats.demolab.com?user=sree-hari-s&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://github.com/sree-hari-s/)|[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sree-hari-s&theme=gruvbox)](https://github.com/sree-hari-s/)|
+|Stats |Streak |Languages
 
+|---|---|---|
+|[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sree-hari-s&theme=gruvbox)](https://github.com/sree-hari-s/)|[![GitHub Streak](https://streak-stats.demolab.com?user=sree-hari-s&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)](https://github.com/sree-hari-s/)|[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sree-hari-s&theme=gruvbox)](https://github.com/sree-hari-s/)|
 
 ---
 

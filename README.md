@@ -37,18 +37,9 @@
 
 ---
 
-<h2 align="center">Github Stats:</h2>
-<div align="center">
-<a href="https://github.com/sree-hari-s/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-li7ck9pt0-sree-hari-s.vercel.app/api?username=sree-hari-s&theme=dark" />
-  <img height=200 align="center" src="https://http://github-readme-stats-sree-hari-s.vercel.app/api?username=sree-hari-s&theme=dark" />
-</a>
-<a href="https://github.com/sree-hari-s/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-li7ck9pt0-sree-hari-s.vercel.app/api/top-langs?username=sree-hari-s&theme=dark&layout=donut&langs_count=8&card_width=320" />
-  <img height=200 align="center" src="https://http://github-readme-stats-sree-hari-s.vercel.app/api/top-langs?username=sree-hari-s&theme=dark&layout=donut&langs_count=8&card_width=320" />
-  <img src="https://streak-stats.demolab.com?user=sree-hari-s&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-</a>
-</div>
+|Stats |Streak |Languages
+|---|---|---|
+|[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sree-hari-s&theme=gruvbox)](https://github.com/sree-hari-s/)|[![GitHub Streak](https://streak-stats.demolab.com?user=sree-hari-s&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://github.com/sree-hari-s/)|[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sree-hari-s&theme=gruvbox)](https://github.com/sree-hari-s/)|
 
 ---
 

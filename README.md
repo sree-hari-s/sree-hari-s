@@ -49,6 +49,7 @@
   <img src="https://streak-stats.demolab.com?user=sree-hari-s&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </a>
 </div>
+
 ---
 
 [![sree-hari-s's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sree-hari-s&bg_color=282624&color=d68a1f&line=a8a8a8&point=b05907&area=true&hide_border=true)](https://github.com/sree-hari-s/Programming-Gifs)

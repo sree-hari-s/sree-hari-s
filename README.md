@@ -45,6 +45,8 @@
 
 [![sree-hari-s's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sree-hari-s&bg_color=282624&color=d68a1f&line=a8a8a8&point=b05907&area=true&hide_border=true)](https://github.com/sree-hari-s/Programming-Gifs)
 
+<!-- [![An image of @sreeharis's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sreeharis)](https://holopin.io/@sreeharis) -->
+
 <div align='center'>
 
 ---

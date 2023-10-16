@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋 I'm Sreehari</h1>
-<p align="center">I am a Data Science Enthusiast<br>🌱 I’m currently learning how to help the Open Source community more</p>
-<p align="center">Want to know more about me? <a href="https://sree-hari-s.github.io/Portfolio-1/" target="_blank">Here is my portfolio.</a></p>
-<h2 align="center">Feel free reaching out me at following platforms:</h2>
-<div align="center">
+<h1 >Hi 👋 I'm Sreehari</h1>
+<p >I am a Data Science Enthusiast<br>I’m currently learning how to help the Open Source community more🌱 </p>
+<h2 >Feel free reaching out me at following platforms:</h2>
+<div >
   <a href="https://discordapp.com/users/422937496318377994" target="_blank">
     <img src="assets/icons/social/discord/default.svg" width="45" height="30" alt="discord logo"  />
   </a>
@@ -37,6 +36,9 @@
 
 ---
 
+<details>
+  <summary><h2>:zap: My Github Stats</h2></summary>
+
 |Stats |Streak |Languages
 |---|---|---|
 |[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sree-hari-s&theme=gruvbox)](https://github.com/sree-hari-s/)|[![GitHub Streak](https://streak-stats.demolab.com?user=sree-hari-s&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://github.com/sree-hari-s/)|[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sree-hari-s&theme=gruvbox)](https://github.com/sree-hari-s/)|
@@ -45,9 +47,11 @@
 
 [![sree-hari-s's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sree-hari-s&bg_color=282624&color=d68a1f&line=a8a8a8&point=b05907&area=true&hide_border=true)](https://github.com/sree-hari-s/Programming-Gifs)
 
+</details>
+
 <!-- [![An image of @sreeharis's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sreeharis)](https://holopin.io/@sreeharis) -->
 
-<div align='center'>
+<div>
 
 ---
 [![Visitor Count](https://visitcount.itsvg.in/api?id=sree-hari-s&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)

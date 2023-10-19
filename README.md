@@ -1,6 +1,10 @@
-<h1 >Hi 👋 I'm Sreehari</h1>
-<p >I am a Data Science Enthusiast<br>I’m currently learning how to help the Open Source community more🌱 </p>
-<h2 >Feel free reaching out me at following platforms:</h2>
+ # Hi 👋 I'm Sreehari
+
+- I am a Data Science Enthusiast
+- I’m currently learning how to help the Open Source community more🌱 
+
+## Feel free reaching out me at following platforms:
+
 <div >
   <a href="https://www.linkedin.com/in/sreehari-s-1680" target="_blank">
     <img src="assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
@@ -37,7 +41,7 @@
 ---
 
 <details>
-  <summary><h2>:zap: My Github Stats</h2></summary>
+  <summary><h2>My Github Stats :zap: </h2></summary>
 
 |Stats |Streak |Languages
 |---|---|---|
@@ -48,15 +52,23 @@
 [![sree-hari-s's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sree-hari-s&bg_color=282624&color=d68a1f&line=a8a8a8&point=b05907&area=true&hide_border=true)](https://github.com/sree-hari-s/Programming-Gifs)
 
 </details>
-
-<!-- [![An image of @sreeharis's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sreeharis)](https://holopin.io/@sreeharis) -->
-
 <div>
+
+---
+
+<details>
+  <summary>
+    <h2>Holopin Board 🐲</h2>
+  </summary>
+  
+[![An image of @sreeharis's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sreeharis)](https://holopin.io/@sreeharis) 
 
 ---
 [![Visitor Count](https://visitcount.itsvg.in/api?id=sree-hari-s&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 </div>
 
+</details>
+<div>
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sree-hari-s/sree-hari-s/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sree-hari-s/sree-hari-s/output/github-contribution-grid-snake.svg">

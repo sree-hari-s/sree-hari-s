@@ -38,8 +38,8 @@
   </a> -->
 </div>
 
+<!--
 ---
-
 <details>
   <summary><h2>My Github Stats :zap: </h2></summary>
 
@@ -51,14 +51,14 @@
 <!--
 [![sree-hari-s's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sree-hari-s&bg_color=282624&color=d68a1f&line=a8a8a8&point=b05907&area=true&hide_border=true)](https://github.com/sree-hari-s/Programming-Gifs) 
 -->
-
+<!--
 ![3d Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </details>
 <div>
 
 ---
-
+-->
 <details>
   <summary>
     <h2>Holopin Board 🐲</h2>

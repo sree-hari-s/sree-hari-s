@@ -66,13 +66,13 @@
   
 [![An image of @sreeharis's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sreeharis)](https://holopin.io/@sreeharis) 
 
----
-[![Visitor Count](https://visitcount.itsvg.in/api?id=sree-hari-s&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 </div>
 
 </details>
 <div>
-<!-- <picture>
+
+[![Visitor Count](https://visitcountpro.netlify.app/api?id=sree-hari-s&pretty=true)](https://visitcount.itsvg.in)
+ <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sree-hari-s/sree-hari-s/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sree-hari-s/sree-hari-s/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sree-hari-s/sree-hari-s/output/github-contribution-grid-snake.svg">

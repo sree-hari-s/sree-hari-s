@@ -1,9 +1,11 @@
- # Hi 👋 I'm Sreehari
+# Hi 👋 I'm Sreehari  
 
-- I am a Data Science Enthusiast
-- I’m currently learning how to help the Open Source community more🌱 
+- 💻 Python Developer & Data Science Enthusiast  
+- 🌱 Currently exploring Automation Tools  
+- 🤝 Passionate about contributing to Open Source and collaborative projects  
+- 🚀 Love building projects that combine data, design, and functionality  
 
-## Feel free reaching out me at following platforms:
+## Feel free to reach out to me through the platforms listed below:
 
 <div >
   <a href="https://www.linkedin.com/in/sreehari-s-1680" target="_blank">
@@ -24,7 +26,7 @@
   <!-- <a href="https://www.hackerrank.com/sreeharis1999?hr_r=1" target="_blank">
     <img src="assets/icons/social/hackerrank/default.svg" width="45" height="30" alt="hackerrank logo"  />
   </a> -->
-  <!-- <a href="https://www.instagram.com/______aegon______/" target="_blank">
+  <!-- <a href="https://www.instagram.com/__sree_hari_s___/" target="_blank">
     <img src="assets/icons/social/instagram/default.svg" width="45" height="30" alt="instagram logo"  />
   </a> -->
   <a href="mailto:sreeharis1999@gmail.com" target="_blank">
@@ -33,9 +35,9 @@
   <!-- <a href="https://t.me/no_one_99" target="_blank">
     <img src="assets/icons/social/telegram/default.svg" width="45" height="30" alt="telegram logo"  />
   </a> -->
-  <!-- <a href="https://www.youtube.com/@sreeharis3989" target="_blank">
+  <a href="https://www.youtube.com/@sreeharis1999" target="_blank">
     <img src="assets/icons/social/youtube/default.svg" width="45" height="30" alt="youtube logo"  />
-  </a> -->
+  </a> 
 </div>
 
 <!--
@@ -71,9 +73,11 @@
 </details>
 <div>
 
-[![Visitor Count](https://visitcountpro.netlify.app/api?id=sree-hari-s&pretty=true)](https://visitcount.itsvg.in)
- <!-- <picture>
+## Thank You for visiting my profile
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sree-hari-s/sree-hari-s/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sree-hari-s/sree-hari-s/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sree-hari-s/sree-hari-s/output/github-contribution-grid-snake.svg">
-</picture>-->
+</picture>
+
+[![Visitor Count](https://visitcountpro.netlify.app/api?id=sree-hari-s&pretty=true)](https://visitcount.itsvg.in)
